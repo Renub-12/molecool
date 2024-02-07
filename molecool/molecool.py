@@ -1,5 +1,9 @@
 """Provide the primary functions."""
+def something_new():
+    print("yes, i do it")
 
+def create():
+    print("blah")
 
 def canvas(with_attribution=True):
     """
