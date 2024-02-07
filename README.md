@@ -7,6 +7,15 @@ molecool
 
 something I am learning
 
+
+##Install instructions
+
+To install, run this command:
+```python
+
+pip install -e .~
+```
+
 ### Copyright
 
 Copyright (c) 2024, Renu Bala
