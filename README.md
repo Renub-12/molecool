@@ -18,8 +18,8 @@ pip install -e .~
 ## colab instructions
  To submit your feature
  submit a `pull Request'
- 
-
+ The repository maintainers will
+I am Renu
 ### Copyright
 
 Copyright (c) 2024, Renu Bala
